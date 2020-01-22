@@ -3,7 +3,14 @@
   "version": "1.0.0",
   "description": "VGV module to ensure consistent beautification using Prettier",
   "main": "index.json",
-  "repository": "git@github.com:VGVentures/vgv-prettier-config.git",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/VGVentures/vgv-prettier-config.git"
+  },
   "author": "Very Good Ventures <hello@verygood.ventures>",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VGVentures/vgv-prettier-config/issues"
+  },
+  "homepage": "https://github.com/VGVentures/vgv-prettier-config#readme"
 }
