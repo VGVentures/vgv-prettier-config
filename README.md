@@ -21,4 +21,4 @@ Add the following to your package.json
 ## Add .prettierignore
 
 Execute:
-`cat ./node_modules/@vgventures@vgventures/prettier-config/.prettierignore >> .prettierignore`
+`cat ./node_modules/@vgventures/prettier-config/.prettierignore >> .prettierignore`
