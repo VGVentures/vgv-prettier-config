@@ -1,0 +1,11 @@
+{
+  "name": "@vgventures/prettier-config",
+  "version": "1.0.0",
+  "description": "VGV module to ensure consistent beautification using Prettier",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "david@verygood.ventures",
+  "license": "MIT"
+}
