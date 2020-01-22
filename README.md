@@ -1,4 +1,4 @@
-#@vgventures/prettier-config
+# @vgventures/prettier-config
 
 This is a module to ensure consistent beautification using [Prettier](https://prettier.io/).
 
