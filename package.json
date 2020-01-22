@@ -3,10 +3,7 @@
   "version": "1.0.0",
   "description": "VGV module to ensure consistent beautification using Prettier",
   "main": "index.json",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": "git@github.com:VGVentures/vgv-prettier-config.git",
-  "author": "david@verygood.ventures",
+  "author": "Very Good Ventures <hello@verygood.ventures>",
   "license": "MIT"
 }
