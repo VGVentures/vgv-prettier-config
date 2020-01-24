@@ -1,6 +1,6 @@
 {
   "name": "@vgventures/prettier-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "VGV module to ensure consistent beautification using Prettier",
   "main": "index.json",
   "repository": {
